@@ -13,7 +13,7 @@
     "require": {
         "php": "^7.3",
         "emuravjev/mdash": "^0.2.1",
-		"pug-php/pug": "^3.4"
+        "pug-php/pug": "^3.4"
     },
     "require-dev": {
         "phpunit/phpunit": "^9",
@@ -21,9 +21,9 @@
     },
     "autoload": {
         "files": [
-			"src/helpers.php"
-		],
-		"psr-4": {
+            "src/helpers.php"
+        ],
+        "psr-4": {
             "Qortex\\PugEditor\\": "src/"
         }
     },
@@ -35,5 +35,6 @@
     "extra": {
         "npm": {
             "ace-builds": "^1.4.12"
+        }
     }
 }
