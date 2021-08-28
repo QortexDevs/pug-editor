@@ -12,7 +12,7 @@
     "minimum-stability": "dev",
     "require": {
         "php": "^7.4|^8",
-        "qortex/mdash": "^0.3.0",
+        "qortex/mdash": "^0.3",
         "pug-php/pug": "^3.4"
     },
     "require-dev": {
